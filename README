@@ -1,0 +1,3 @@
+SLAP - A Squid Log Analysing Program.
+
+This program retrieves the minimum essential bits of information from the Squid proxy access log, such as bandwidth use per IP address.
